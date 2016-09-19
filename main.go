@@ -4,14 +4,6 @@ package main
 import (
 	"fmt"
 
-	graw "github.com/turnage/graw"
-)
-
-package main
-
-import (
-	"fmt"
-
 	"github.com/turnage/graw"
 	"github.com/turnage/redditproto"
 )
